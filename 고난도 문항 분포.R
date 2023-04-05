@@ -46,3 +46,8 @@ cross_tab <- xtabs(문항번호2 ~ 정답률 + 변별도, data = agg_data)
 
 
 ## 마지막에 코드 추가 함
+
+
+
+###test 2
+
