@@ -1,9 +1,23 @@
 x<-read.csv("C:/Users/KICE/Desktop/2.csv")
 
+
+### 여기도
+
+
+
+
+
+ㄹㅀㅇㅀㄹㅇ
 library(ggplot2)
-library(ggrepel)
+
 library(dplyr)
 
+
+
+ㅀㄹㅇㅎ
+
+
+ㄹ
 ggplot(data = x, mapping = aes(정답률, 변별도))+
   geom_point(aes(color=as.factor(과목)))+
   geom_label_repel(aes(label=문항번호2, fill=as.factor(과목)), size = 2.5)+
