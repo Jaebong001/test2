@@ -10,6 +10,8 @@ ggplot(data = x, mapping = aes(정답률, 변별도))+
  scale_x_continuous(limits = c(7, 25)) +
   scale_y_continuous(limits = c(-0.1, 0.1)) 
 
+###여기에 코드 추가
+## 여기에 코드 추가 2
 
 
 ggplot(data = x, mapping = aes(등급정답률, 변별도))+
