@@ -1,21 +1,14 @@
 x<-read.csv("C:/Users/KICE/Desktop/2.csv")
 
 
-### 여기도
-
-
-
-
-
 ㄹㅀㅇㅀㄹㅇ
 library(ggplot2)
 
 library(dplyr)
 
+library(dplyr)
 
-
-ㅀㄹㅇㅎ
-
+library(dplyr)
 
 ㄹ
 ggplot(data = x, mapping = aes(정답률, 변별도))+
